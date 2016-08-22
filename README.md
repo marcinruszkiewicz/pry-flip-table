@@ -1,4 +1,5 @@
 [![Code Climate](https://codeclimate.com/github/marcinruszkiewicz/pry-flip-table/badges/gpa.svg)](https://codeclimate.com/github/marcinruszkiewicz/pry-flip-table)
+[![Build Status](https://travis-ci.org/marcinruszkiewicz/pry-flip-table.svg?branch=master)](https://travis-ci.org/marcinruszkiewicz/pry-flip-table)
 
 # Pry-Flip-Table
 
