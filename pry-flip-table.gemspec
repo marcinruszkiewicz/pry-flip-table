@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   EOF
   s.author      = 'Marcin Ruszkiewicz'
   s.email       = 'marcin.ruszkiewicz@polcode.net'
-  s.files       = ['lib/pry_flip_table.rb']
+  s.files       = ['lib/pry-flip-table.rb']
   s.homepage    = 'https://github.com/marcinruszkiewcz/pry-flip-table'
   s.license     = 'MIT'
 
