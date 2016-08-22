@@ -1,3 +1,5 @@
+[![Code Climate](https://codeclimate.com/github/marcinruszkiewicz/pry-flip-table/badges/gpa.svg)](https://codeclimate.com/github/marcinruszkiewicz/pry-flip-table)
+
 # Pry-Flip-Table
 
 Why pry into things when you can throw tables at them? 
