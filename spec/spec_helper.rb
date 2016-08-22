@@ -1,4 +1,4 @@
-require 'pry_flip_table'
+require 'pry-flip-table'
 
 RSpec.configure do |config|
 end
