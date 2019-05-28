@@ -1,13 +1,13 @@
 [![Code Climate](https://codeclimate.com/github/marcinruszkiewicz/pry-flip-table/badges/gpa.svg)](https://codeclimate.com/github/marcinruszkiewicz/pry-flip-table)
-[![Build Status](https://travis-ci.org/marcinruszkiewicz/pry-flip-table.svg?branch=master)](https://travis-ci.org/marcinruszkiewicz/pry-flip-table)
+[![Build Status](https://travis-ci.com/marcinruszkiewicz/pry-flip-table.svg?branch=master)](https://travis-ci.com/marcinruszkiewicz/pry-flip-table)
 [![Gem Version](https://badge.fury.io/rb/pry-flip-table.svg)](https://badge.fury.io/rb/pry-flip-table)
 
 # Pry-Flip-Table
 
-Why pry into things when you can throw tables at them? 
+Why pry into things when you can throw tables at them?
 
-This gem provides a simple `❨╯°□°❩╯.︵┻━┻` so you can use it instead 
-of the very uninspiring and bland `binding.pry` and debug the code 
+This gem provides a simple `❨╯°□°❩╯.︵┻━┻` so you can use it instead
+of the very uninspiring and bland `binding.pry` and debug the code
 in question accordingly to your level of frustration.
 
 If your level of frustration about the code is pretty low, the old and boring
@@ -17,7 +17,7 @@ If your level of frustration about the code is pretty low, the old and boring
 
 No it's not!
 
-But if you happen to use Sublime Text, here's a little snippet you can use 
+But if you happen to use Sublime Text, here's a little snippet you can use
 that will make it much easier:
 
 ```
@@ -29,8 +29,8 @@ that will make it much easier:
 </snippet>
 ```
 
-After you add it to your snippets, preferably by using `Tools > Developer > New 
-Snippet`, you're ready to relieve your frustrations by simply typing `pry` and 
+After you add it to your snippets, preferably by using `Tools > Developer > New
+Snippet`, you're ready to relieve your frustrations by simply typing `pry` and
 pressing the Tab button to expand the snippet.
 
 ## Installation
@@ -66,7 +66,7 @@ Test.me
 And it's result:
 
 ```
-Vierge:pry-flip-table mruszkiewicz$ ruby test.rb 
+Vierge:pry-flip-table mruszkiewicz$ ruby test.rb
 stop
 
 From: /Volumes/Projects/pry-flip-table/test.rb @ line 7 Test.me:
